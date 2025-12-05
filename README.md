@@ -14,22 +14,9 @@ Feel free to explore my repositories!
 >### *Planned Projects*
 >
 > - REST API demo project
->   - Project: Vocabulary, Weather ...
->   - Implement GET and POST endpoints
->   - Connect to a database
 > - Personal website
->   - Needed: JavaScript, HTML, CSS
->   - Add contact form
->   - Make it responsive
 > - Linux terminal command reference and scripts
->   - Needed: Bash
->   - Basic commands
->   - Networking commands
 > - Network setup and configuration experiments
->   - Needed: Cisco Packet Tracer
->   - VLAN examples
->   - Router and switch configuration
-
 
 <!--
 **ctezgider/ctezgider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
