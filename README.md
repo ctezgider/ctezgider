@@ -7,7 +7,9 @@
 
 Feel free to explore my repositories!
 
-___
+<br>
+
+<br>
 
 >### *Planned Projects*
 >
