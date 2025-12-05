@@ -1,4 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Canan 👋
+
+- I'm currently pursuing a double degree in Mathematics and Computer Science at Goethe University Frankfurt.  
+- 🌱 I'm trying to learn web development using JavaScript, HTML, and CSS, and to build small personal projects.
+- 🤔 I'm exploring networking concepts, Linux system administration, and cybersecurity basics.
+- 📫 How to reach me: tezgidercanan@gmail.com
+
+Feel free to explore my repositories!
+
+___
+
+>### *Planned Projects*
+>
+> - REST API demo project
+>   - Project: Vocabulary, Weather ...
+>   - Implement GET and POST endpoints
+>   - Connect to a database
+> - Personal website
+>   - Needed: JavaScript, HTML, CSS
+>   - Add contact form
+>   - Make it responsive
+> - Linux terminal command reference and scripts
+>   - Needed: Bash
+>   - Basic commands
+>   - Networking commands
+> - Network setup and configuration experiments
+>   - Needed: Cisco Packet Tracer
+>   - VLAN examples
+>   - Router and switch configuration
+
 
 <!--
 **ctezgider/ctezgider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
