@@ -17,6 +17,7 @@ Feel free to explore my repositories!
 > - Personal website
 > - Linux terminal command reference and scripts
 > - Network setup and configuration experiments
+> - Timer & TODO desktop application
 
 <!--
 **ctezgider/ctezgider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
